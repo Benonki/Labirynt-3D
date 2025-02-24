@@ -1,4 +1,4 @@
-# Fitness App Mobile
+# Labirynt 3D
 
 A C++ game in OpenGL that allows us to complete ready-made maze levels or create our own.
 
