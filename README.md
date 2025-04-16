@@ -2,7 +2,7 @@
 
 A C++ game in OpenGL that allows us to complete ready-made maze levels or create our own.
 
-## Setup
+## ⚙️ Setup
 
 1. Clone the repository:
     ```bash
